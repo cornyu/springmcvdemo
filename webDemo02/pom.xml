@@ -18,7 +18,7 @@
 		<log4j.version>1.2.17</log4j.version>
 
 		<!-- logback日志文件管理包版本 -->
-		<logback.version>1.1.2</logback.version>
+		<logback.version>1.2.0</logback.version>
 	</properties>
 
 	<!-- <repositories> <repository> <id>suziquan-maven-repo</id> <url>https://raw.githubusercontent.com/suziquan/maven-repo/master/repository</url> 
